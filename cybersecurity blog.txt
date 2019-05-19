@@ -1,0 +1,19 @@
+On Wednesday, Denver-based deepwatch announced it has secured $23 million in a Series A funding round. The cybersecurity provider will use the sizable Series A to fuel research and development, as well as to expand its market reach.
+
+“We’ve been doubling in size since starting in 2015, going from a startup to 130 employees and over 100 customers — many of them blue chip companies,” said Chief Financial Officer Ron Peele. “We expect that growth rate to continue.”Deepwatch uses a combination of software and in-house cybersecurity expertise to help companies protect their digital assets.
+
+“A lot of what we do is detection. We look through the data, in the form of logs, to see what activity is happening with our customers’ digital assets,” said Peele. “From that activity, we do machine learning that helps us identify patterns and threats. From what we learn from that, we can alert someone or take corresponding action.”
+
+The company’s security operations teams, made up of about 50 employees, is split between operating centers in Denver and St. Petersburg, FL. Peele said Denver was a natural choice for the company when deciding where to launch its second operations center.
+
+“We want to recruit the best and brightest, and Denver is a city where anyone would want to come live and work,” he said. “There’s also a great existing base of cybersecurity expertise here that we can recruit from.”
+
+Peele said the company will continue to grow its footprint in both of its headquarter cities.
+
+Wednesday’s funding was led by ABS Capital Partners, which has a penchant for late-stage investments. As part of the funding, Venture Partner Michael Avon will be joining the deepwatch board of directors.
+
+“We look forward to partnering with deepwatch as it continues to disrupt and redefine the modern managed security services industry to help its customers protect their brands and critical assets against a continuously advancing threat landscape,” Avon said in a statement.
+
+As the cybersecurity skills shortage reaches critical levels, security management companies like deepwatch are becoming increasingly necessary for companies looking to protect their most valuable assets.
+
+As a result, the demand for managed cybersecurity solutions continues to skyrocket. Between 2016 and 2020, the niche is anticipated to grow as much as 16 percent, and reach a value of $20 billion.
